@@ -18,6 +18,10 @@ DPGNet formulates difference representations as active priors and performs progr
 - **DRP**: Difference Retrospective Probe
 - **SPGA**: Semantic Prior-Guided Aggregation Module
 
+<p align="center">
+  <img src="images/Overall architecture.jpg" width="90%">
+</p>
+
 ---
 
 ## 🛠️ Installation
@@ -111,6 +115,30 @@ DPGNet/
 ├── test.py                    
 └── option.py                   
 ```
+
+---
+
+## 📊 Experimental Results
+
+### Visual Comparison
+
+<p align="center">
+  <img src="images/Visual comparison results on LEVIR-CD.jpg" width="100%">
+  <br>
+  <em>Visual comparison results on LEVIR-CD dataset</em>
+</p>
+
+<p align="center">
+  <img src="images/Visual comparison results on WHU-CD.jpg" width="100%">
+  <br>
+  <em>Visual comparison results on WHU-CD dataset</em>
+</p>
+
+<p align="center">
+  <img src="images/Visual comparison results on SYSU-CD.jpg" width="100%">
+  <br>
+  <em>Visual comparison results on SYSU-CD dataset</em>
+</p>
 
 ---
 
